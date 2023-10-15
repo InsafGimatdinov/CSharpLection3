@@ -1,0 +1,15 @@
+D:\Projects\C#\C# Lection3\Example1\bin\Debug\net7.0\Example1.exe
+D:\Projects\C#\C# Lection3\Example1\bin\Debug\net7.0\Example1.deps.json
+D:\Projects\C#\C# Lection3\Example1\bin\Debug\net7.0\Example1.runtimeconfig.json
+D:\Projects\C#\C# Lection3\Example1\bin\Debug\net7.0\Example1.dll
+D:\Projects\C#\C# Lection3\Example1\bin\Debug\net7.0\Example1.pdb
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.csproj.AssemblyReference.cache
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.AssemblyInfoInputs.cache
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.AssemblyInfo.cs
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.csproj.CoreCompileInputs.cache
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.dll
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\refint\Example1.dll
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.pdb
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\Example1.genruntimeconfig.cache
+D:\Projects\C#\C# Lection3\Example1\obj\Debug\net7.0\ref\Example1.dll
